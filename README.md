@@ -13,6 +13,9 @@
 
 
 
+
+
+
 <img width="922" alt="prediccion de Parkinson" src="https://github.com/LilianaSanchezcode/Deploying-de-una-App-Web-usando-streamlit-Prediccion-de-Diabetes-enfermedad-Cardiaca-Parkinson/assets/65835585/4db6bf9d-0443-476d-bd98-95e72fdd488a">
 
 
