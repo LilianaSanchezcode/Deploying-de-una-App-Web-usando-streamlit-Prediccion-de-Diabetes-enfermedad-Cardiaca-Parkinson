@@ -12,3 +12,12 @@
 
 
 
+![Uploading prediccion de Parkinson.PNG…]()
+
+
+
+
+
+
+
+
